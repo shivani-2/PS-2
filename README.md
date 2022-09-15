@@ -10,3 +10,10 @@ Output: Number of URL occurrences and First Occurrence.
 
 Partial Acceptable Solution: If can only output Occurrence found.
 Complete solution: If output occurrence found and the First Occurrence.
+
+
+##SOLUTION
+
+Step1: Compile and run the "url_search.java" file.
+Step2: Create a new document file with any number of URLs (or use the test document.txt file I have created).
+Step3: Enter the complete location of that txt file in the input.
